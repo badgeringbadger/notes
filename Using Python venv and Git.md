@@ -1,6 +1,8 @@
 # Python venv and Git 
 
-1. setup the enviroment in the project folder
+I use Windows so my commands reflect that. If you don't, you'll have to sort them out.
+
+1. setup the environment in the project folder
 
 ```
 cd %HOMEPATH%\source\projectname
