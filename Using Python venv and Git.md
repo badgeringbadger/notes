@@ -19,6 +19,8 @@ cd %HOMEPATH%\source\projectname
 
 4. Stop using it
 
+Of course, the expectation is that you are IN a venv when you run this command
+
 ```deactivate```
 
 
