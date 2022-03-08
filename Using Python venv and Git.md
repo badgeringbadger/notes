@@ -17,11 +17,11 @@ cd %HOMEPATH%\source\projectname
 %myenv\Scripts\activate.bat
 ```
 
-4. Stop using it
+4. Stop using it - of course, the expectation is that you are IN a venv when you run this command
 
-Of course, the expectation is that you are IN a venv when you run this command
-
-```deactivate```
+```
+deactivate
+```
 
 
 
