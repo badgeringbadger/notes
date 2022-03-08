@@ -17,5 +17,10 @@ cd %HOMEPATH%\source\projectname
 %myenv\Scripts\activate.bat
 ```
 
+4. Stop using it
+
+```deactivate```
+
+
 
 
