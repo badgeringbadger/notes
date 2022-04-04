@@ -1,5 +1,12 @@
 # Using Git with a Local OneDrive Hosted Repository
 
+| Document Information
+| --------------------
+| Author: Todd Fiedler
+| Revised: 4/4/2022
+
+## Description
+
 A OneDrive folder can be used as a repository for storing a project to be managed by Git. If you are using your personal OneDrive folder, access to your projects will be limited to you. If you use another OneDrive folder, that is accessible to others, then that repository will be accessible by anyone who can access the OneDrive folder and who has it synchronized to their local machine.
 
 _NOTE: If you are seeing unformatted text, it is because your viewer doesn't understand Markdown. To see this document formatted with headings and whatnot, install a Markdown Viewer extension in your web browser or view it using a viewer that understands Markdown coding. You will also want to make sure that you enable file-based URLs._ 
