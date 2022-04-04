@@ -7,7 +7,7 @@
 
 ## Description
 
-Some examples of format strings or commands for generating date time strings that are good for log files. 
+Some examples of format strings or commands for generating ISO 8601 date time strings that are good for log files. 
 
 ## Examples
 ### PowerShell
