@@ -3,7 +3,7 @@
 | Document Information
 | --------------------
 | Author: Todd Fiedler
-| Revised: 4/4/2022
+| Revised: 4/5/2022
 
 ## Description
 
@@ -25,7 +25,7 @@ python3 -m venv .venv
 
 ```
 cd %HOMEPATH%\source\projectname
-%myenv\Scripts\activate.bat
+.venv\Scripts\activate.bat
 ```
 
 4. Stop using it - of course, the expectation is that you are IN a venv when you run this command
